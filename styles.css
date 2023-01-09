@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#hello-world{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color:green;
+    font-size: 60px;
+    transform: translate(-50%, -50%);
+}
+
+#underscore{
+    position: absolute;
+    top: 50%;
+    left: 107.5%;
+    transform: translate(-50%, -50%);
+    color:green;
+    font-size: 60px;
+
+} 
